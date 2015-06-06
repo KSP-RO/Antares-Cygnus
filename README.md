@@ -8,7 +8,7 @@ Contains:
 
 **Cygnus Picture Album:** http://imgur.com/a/bNy8J
 
-**Antares Picture Album:**http://imgur.com/a/8YZUj
+**Antares Picture Album:** http://imgur.com/a/8YZUj
 
 ![alt tag](http://i.imgur.com/2ymppHW.png)
 
@@ -16,19 +16,19 @@ Contains:
 
 
 ##Remotetech Support:
--If you use remotetech, here is a module manager config to make the craft compatible: [https://www.mediafire.com/?dbjc12jmzc4vpik](https://www.mediafire.com/?dbjc12jmzc4vpik)
+* If you use remotetech, here is a module manager config to make the craft compatible: [https://www.mediafire.com/?dbjc12jmzc4vpik](https://www.mediafire.com/?dbjc12jmzc4vpik)
 
 ##KIS Support:
--If you use KIS/KAS, here is a module manager config to make the craft compatible: [https://www.mediafire.com/?j262gmicdpazzuw](https://www.mediafire.com/?j262gmicdpazzuw)
+* If you use KIS/KAS, here is a module manager config to make the craft compatible: [https://www.mediafire.com/?j262gmicdpazzuw](https://www.mediafire.com/?j262gmicdpazzuw)
 
 ##INSTALL:
 
 Unzip into your main KSP folder, overwrite if already installed.
 
 ##Credits:
--Antares: Kartoffelkuchen
--Original Cygnus model: Don Gallagher
--Circular Solar Panels Model: Yogui87 BY-NC-SA
+* Antares: Kartoffelkuchen
+* Original Cygnus model: Don Gallagher
+* Circular Solar Panels Model: Yogui87 BY-NC-SA
 
 ##License:
 
