@@ -32,7 +32,9 @@ Unzip into your main KSP folder, overwrite if already installed.
 
 ##License:
 
-[https://creativecommons.org/licenses/by-nc-nd/3.0/us/](https://creativecommons.org/licenses/by-nc-nd/3.0/us/)
+![alt tag](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
+
+https://creativecommons.org/licenses/by-nc-nd/3.0/us/
 
 **This license does not cover mod packs. Putting my work into a mod pack is prohibited.**
 
