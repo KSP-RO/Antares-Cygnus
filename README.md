@@ -16,10 +16,10 @@ Contains:
 
 
 ##Remotetech Support:
-* If you use remotetech, here is a module manager config to make the craft compatible: [https://www.mediafire.com/?dbjc12jmzc4vpik](https://www.mediafire.com/?dbjc12jmzc4vpik)
+* If you use remotetech, here is a module manager config to make the craft compatible: [https://www.dropbox.com/s/po2ddzhalc1fmb7/Cygnus_RT.cfg?dl=0](https://www.dropbox.com/s/po2ddzhalc1fmb7/Cygnus_RT.cfg?dl=0)
 
 ##KIS Support:
-* If you use KIS/KAS, here is a module manager config to make the craft compatible: [https://www.mediafire.com/?j262gmicdpazzuw](https://www.mediafire.com/?j262gmicdpazzuw)
+* If you use KIS/KAS, here is a module manager config to make the craft compatible: [https://www.dropbox.com/s/tl9zhmh028sq06y/Cygnus_KIS.cfg?dl=0](https://www.dropbox.com/s/tl9zhmh028sq06y/Cygnus_KIS.cfg?dl=0)
 
 ##INSTALL:
 
